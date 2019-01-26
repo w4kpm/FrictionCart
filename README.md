@@ -1,0 +1,1 @@
+this is the source for a friction cart project - it uses a pulley with slats in it to act as a sort of rotary encoder - This uses a Vernier photogate with the Vernier Arduino interface - hooked to 'Digital 1'
